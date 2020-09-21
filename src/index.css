@@ -4,16 +4,15 @@ div{
   
 }
 
-img{ 
-  border-radius: 50%; 
-  width: 90px;
-  height: 90px;
-text-align: center;
-} 
-.id{ 
-  font-family: 'Josefin Sans', sans-serif;
-
+img{
+   border-radius: 50%;
+    width:90px;     
+    height: 90px; 
+    text-align: center;  
 }
+.id{
+  font-family: 'Josefin Sans', sans-serif;
+} 
 .jumborton{
  background-color: rgb(236, 178, 111);
 height: 650px;
@@ -24,7 +23,7 @@ border-radius: 0 0 25px 40px;
    
  
 
-}
+} 
 
 .boss{
   background-color: yellow; 
@@ -51,8 +50,8 @@ color: transparent;
    border-radius: 15px;
    padding: 18px; 
 background-color: red;
- color: black;
-
+ color:black;
+  
  }
   
  

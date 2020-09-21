@@ -1,7 +1,7 @@
 import React from "react";
-import theimage from './img.jpg';   
+import image from "./img.jpg";  
 
-function App() {   
+function App() {    
   const link="https://www.youtube.com/channel/UCRvqhiJrE9rBJsrS6lBiBGw/featured?view_as=subscriber";
   const links="https://web.facebook.com/profile.php?id=100020146181576";
   const linkss="https://www.instagram.com/http.roman_1057/?fbclid=IwAR3OJMkKpypK378k848P17h6qafFPq1cxTXhLMMk3SMfpiLyrITYRzt697M";
@@ -10,12 +10,17 @@ function App() {
  
 return(
   <div  className="jumborton">         
-  <div>      
-  <h1> Welcome To My Page</h1> ,   
+
+
+
+  <h1> Welcome To My Page</h1> ,    
  
-<img src={theimage} alt="random" className="img" />   
-  <p className="id">@http.roman_1057</p> 
-  <div> 
+  <img src={image} alt="random" className="img" />  
+  <p className="id">@http.roman_1057</p>  
+  
+
+
+
   <h2 className="channel">Youtube channel </h2>
   <a href={link} target="youtube" >
   <button>Click Here</button>
@@ -41,7 +46,8 @@ return(
     <button>Click here</button>  
      </a>
     
-     <h3>Subscribe My Channl </h3> 
+     <h3>Subscribe My Youtube Channel </h3> 
+   
      
   
     
@@ -49,9 +55,13 @@ return(
      
    </div>
  
-  </div>
-  </div>
+  
+
+
+  
+
+
 );
 }
-
+ 
 export default App;
