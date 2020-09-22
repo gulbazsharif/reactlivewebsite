@@ -12,6 +12,7 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
+  
     "homepage": ".",
     "start": "react-scripts start",
     "build": "react-scripts build",

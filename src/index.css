@@ -6,12 +6,12 @@ div{
 
 img{
    border-radius: 50%;
-    width:90px;     
+    width:90px;      
     height: 90px; 
     text-align: center;  
 }
 .id{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif; 
 } 
 .jumborton{
  background-color: rgb(236, 178, 111);
