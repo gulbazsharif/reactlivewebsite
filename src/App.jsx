@@ -9,7 +9,8 @@ function App() {
   const linkssss="https://twitter.com/rroman_5";
  
 return(
-  <div  className="jumborton">         
+ 
+  <div  className="great">          
 
 
 
@@ -21,47 +22,53 @@ return(
 
 
 
-  <h2 className="channel">Youtube channel </h2>
-  <a href={link} target="youtube" >
-  <button>Click Here</button>
-   </a> 
-  
-   <h2 className="facebook">Facebook ID</h2>
+  <b className="channel">Youtube channel </b> <br/>
+  <a href={link} target="youtube" > 
+  <br/>  
+  <button className="butt">Click Here</button>
+   </a>  
+   
+   <br/>
+ 
+   <b className="face">Facebook ID</b> <br/>
    <a href={links} target="facebook">
-   <button>Click Here</button>
+     <br/>
+   <button className="buttt">Click Here</button> 
    </a>
-
-   <h2 className="insta"> Instagram ID</h2>
-   <a href={linkss} target="instagram"> 
-   <button> Click here</button>
+<br/>
+   <b className="insta"> Instagram ID</b> <br/>
+   <a href={linkss} target="instagram ">
+     <br/> 
+   <button className="butttt"> Click here</button>   
      </a>  
-     
-     <h2 className="snap">SnapChat</h2>
-     <a href={linksss} target="snap">
-     <button>Click here</button>
+    <br/> 
+     <b className="snap">SnapChat</b> <br/>
+     <a href={linksss} target="snap">  
+       <br/>
+     <button className="buttttt">Click here</button>
      </a> 
-    
-     <h2 className="twit">Twitter</h2>
-     <a href={linkssss} target="twitter">
-    <button>Click here</button>  
+    <br/>
+     <b className="twit">Twitter</b>  <br/>
+     <a href={linkssss} target="twitter"> 
+       <br/>
+    <button className="butttttt">Click here</button>  
      </a>
-    
-     <h3>Subscribe My Youtube Channel </h3> 
+  
    
      
   
     
-      
+     
      
    </div>
  
-  
+   
 
 
   
 
 
 );
-}
+}; 
  
 export default App;
