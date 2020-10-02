@@ -35,7 +35,7 @@ return(
      <br/>
    <button className="buttt">Click Here</button> 
    </a>
-<br/> 
+<br/>   
    <b className="insta"> Instagram ID</b> <br/>
    <a href={linkss} target="instagram ">
      <br/> 
