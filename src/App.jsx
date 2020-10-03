@@ -1,7 +1,7 @@
 import React from "react";
 import image from "./img.jpg";  
  
-function App() {    
+function App() {     
   const link="https://www.youtube.com/channel/UCRvqhiJrE9rBJsrS6lBiBGw/featured?view_as=subscriber";
   const links="https://web.facebook.com/profile.php?id=100020146181576";
   const linkss="https://www.instagram.com/http.roman_1057/?fbclid=IwAR3OJMkKpypK378k848P17h6qafFPq1cxTXhLMMk3SMfpiLyrITYRzt697M";

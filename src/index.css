@@ -18,7 +18,7 @@ img{
 .great{
  background-color: rgb(236, 178, 111);
 height: 580px; 
-margin-top: -25px;  
+margin-top: -25px;   
 margin-left: -20px; 
 margin-right: -8px;  
 border-radius: 0 0 25px 40px;
@@ -95,7 +95,7 @@ margin-left: 20px;
 
 .buttt{
   margin-bottom: 25px;
-  cursor: pointer;
+  cursor: pointer; 
   border-radius: 5px; 
   margin-right: 120px;
   color: blue;
