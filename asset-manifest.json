@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rooman/static/css/main.04f2645b.chunk.css",
-    "main.js": "/rooman/static/js/main.8ea1c08c.chunk.js",
-    "main.js.map": "/rooman/static/js/main.8ea1c08c.chunk.js.map",
-    "runtime-main.js": "/rooman/static/js/runtime-main.b69301eb.js",
-    "runtime-main.js.map": "/rooman/static/js/runtime-main.b69301eb.js.map",
-    "static/js/2.3c745b8e.chunk.js": "/rooman/static/js/2.3c745b8e.chunk.js",
-    "static/js/2.3c745b8e.chunk.js.map": "/rooman/static/js/2.3c745b8e.chunk.js.map",
-    "index.html": "/rooman/index.html",
-    "precache-manifest.682c24505ea20e3239e2094af49e7225.js": "/rooman/precache-manifest.682c24505ea20e3239e2094af49e7225.js",
-    "service-worker.js": "/rooman/service-worker.js",
-    "static/css/main.04f2645b.chunk.css.map": "/rooman/static/css/main.04f2645b.chunk.css.map",
-    "static/js/2.3c745b8e.chunk.js.LICENSE.txt": "/rooman/static/js/2.3c745b8e.chunk.js.LICENSE.txt",
-    "static/media/img.jpg": "/rooman/static/media/img.1bd5606a.jpg"
+    "main.css": "/react-deploy%20/static/css/main.01a944c2.chunk.css",
+    "main.js": "/react-deploy%20/static/js/main.2f6219be.chunk.js",
+    "main.js.map": "/react-deploy%20/static/js/main.2f6219be.chunk.js.map",
+    "runtime-main.js": "/react-deploy%20/static/js/runtime-main.d7b0da75.js",
+    "runtime-main.js.map": "/react-deploy%20/static/js/runtime-main.d7b0da75.js.map",
+    "static/js/2.3c745b8e.chunk.js": "/react-deploy%20/static/js/2.3c745b8e.chunk.js",
+    "static/js/2.3c745b8e.chunk.js.map": "/react-deploy%20/static/js/2.3c745b8e.chunk.js.map",
+    "index.html": "/react-deploy%20/index.html",
+    "precache-manifest.d21b094bf2b38e27c0eeaf1ca5ba8c82.js": "/react-deploy%20/precache-manifest.d21b094bf2b38e27c0eeaf1ca5ba8c82.js",
+    "service-worker.js": "/react-deploy%20/service-worker.js",
+    "static/css/main.01a944c2.chunk.css.map": "/react-deploy%20/static/css/main.01a944c2.chunk.css.map",
+    "static/js/2.3c745b8e.chunk.js.LICENSE.txt": "/react-deploy%20/static/js/2.3c745b8e.chunk.js.LICENSE.txt",
+    "static/media/img.jpg": "/react-deploy%20/static/media/img.60b7f5ba.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b69301eb.js",
+    "static/js/runtime-main.d7b0da75.js",
     "static/js/2.3c745b8e.chunk.js",
-    "static/css/main.04f2645b.chunk.css",
-    "static/js/main.8ea1c08c.chunk.js"
+    "static/css/main.01a944c2.chunk.css",
+    "static/js/main.2f6219be.chunk.js"
   ]
 }
