@@ -1,9 +1,7 @@
-
 div{
   text-align: center; 
   
-}     
-  
+}  
 
 img{
    border-radius: 50%;
@@ -95,14 +93,14 @@ margin-left: 20px;
 }
 
 .buttt{
-  margin-bottom: 25px;
-  cursor: pointer; 
+  margin-bottom: 25px;  
+  cursor: pointer;
   border-radius: 5px; 
   margin-right: 120px;
   color: blue;
 }
 
-.butttt{
+.butttt{ 
   margin-bottom: 25px;
   cursor: pointer;
   border-radius: 5px;
@@ -111,7 +109,7 @@ margin-left: 20px;
 }
 
 .buttttt{
-  margin-bottom: 25px;
+  margin-bottom: 25px;  
   cursor: pointer;
   border-radius: 5px;
   margin-left: 160px;
